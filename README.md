@@ -38,11 +38,13 @@ No additional dependencies
 Structure 
 
 RoBoCopy-Manager/
+
 │
+
 ├── src/
-├── installer/
-├── build/
+
 ├── LICENSE
+
 └── README.md
 
 👤 Author
