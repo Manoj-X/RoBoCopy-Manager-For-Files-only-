@@ -28,12 +28,16 @@ Designed to simplify multi-file copying with speed, logs, and a clean interface.
 
 RoBoCopy-Manager/
 │
+
 ├── src/
 │   └── RoBoCopy Manager.py
+
 ├── build/
 │   └── RoBoCopyManager_setup.exe
+
 │
 ├── LICENSE
+
 └── README.md
 
 🛠️ Source Code
@@ -65,6 +69,7 @@ This tool provides a clean interface with safe defaults, making fast file copyin
 👤 Author
 
 Manoj Kumar (MK)
+
 Feel free to contribute, report issues, or suggest features.
 
 ⭐ Support
