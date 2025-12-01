@@ -1,4 +1,4 @@
-📦 RoBoCopy Manager 
+📦 RoBoCopy Manager (for file only)
 
 🚀 Overview
 
