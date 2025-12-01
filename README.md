@@ -34,10 +34,6 @@ RoBoCopy-Manager/
 
 │         └── RoBoCopy Manager.py
 
-├── build/
-
-│        └── RoBoCopyManager_setup.exe
-
 │
 
 ├── LICENSE
