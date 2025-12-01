@@ -32,11 +32,11 @@ RoBoCopy-Manager/
 
 ├── src/
 
-│     └── RoBoCopy Manager.py
+│         └── RoBoCopy Manager.py
 
 ├── build/
 
-│     └── RoBoCopyManager_setup.exe
+│        └── RoBoCopyManager_setup.exe
 
 │
 
